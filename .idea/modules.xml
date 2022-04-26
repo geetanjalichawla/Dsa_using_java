@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dsa_using_java.iml" filepath="$PROJECT_DIR$/Dsa_using_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec5-patternSolving/Lec5-patternSolving.iml" filepath="$PROJECT_DIR$/Lec5-patternSolving/Lec5-patternSolving.iml" />
+    </modules>
+  </component>
+</project>

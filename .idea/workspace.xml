@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5f1b8ca-1ae0-4086-9966-5e7a9dc2b011" name="Changes" comment="java first commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dsa_using_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/Lec5-patternSolving.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q10_dimondshape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q11_InvertedPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q12_HollowPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q13_hollowInvertedPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q14_NumberTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q15_NumberTriangleInverted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q16_HollowNumverTriangleInverted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q17_PyramidNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q18_pyramidNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q19_hollowPyramidNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q1_starbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q2_startriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q3_startTriangleOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q4_StarTriangleInvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q5_StarTriangleOPInvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q6_hollowDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q7_halfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q8_png5ka1SolidHalfDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec5-patternSolving/solution/Q9_HollowStarTriangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28Kgd0oNIIv3eoioIdML716D9TY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\geetc\IdeaProjects\Dsa_using_java\out" />
+      <recent name="C:\Users\geetc\IdeaProjects\Dsa_using_java\src" />
+      <recent name="C:\Users\geetc\IdeaProjects\Dsa_using_java\" />
+      <recent name="C:\Users\geetc\IdeaProjects\Dsa_using_java\5_PatternSolving" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Q19_hollowPyramidNumbers">
+    <configuration name="Q15_NumberTriangleInverted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q15_NumberTriangleInverted" />
+      <module name="Lec5-patternSolving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q16_HollowNumverTriangleInverted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q16_HollowNumverTriangleInverted" />
+      <module name="Lec5-patternSolving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q17_PyramidNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q17_PyramidNumbers" />
+      <module name="Lec5-patternSolving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q18_pyramidNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q18_pyramidNumber2" />
+      <module name="Lec5-patternSolving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q19_hollowPyramidNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q19_hollowPyramidNumbers" />
+      <module name="Lec5-patternSolving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q19_hollowPyramidNumbers" />
+        <item itemvalue="Application.Q18_pyramidNumber2" />
+        <item itemvalue="Application.Q17_PyramidNumbers" />
+        <item itemvalue="Application.Q16_HollowNumverTriangleInverted" />
+        <item itemvalue="Application.Q15_NumberTriangleInverted" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5f1b8ca-1ae0-4086-9966-5e7a9dc2b011" name="Changes" comment="" />
+      <created>1650970775206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650970775206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="java first commit" />
+  </component>
+</project>
